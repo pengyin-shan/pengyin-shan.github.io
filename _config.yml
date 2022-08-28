@@ -4,8 +4,8 @@ title: "Wendy Shan"
 description: "Trial-run Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: pengyin-shan.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://pengyin-shan.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
