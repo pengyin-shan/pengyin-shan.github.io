@@ -7,18 +7,18 @@ favicon: 'assets/images/logo.png'
 domain: pengyin-shan.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://pengyin-shan.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: ""
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: 'G-KMJZQMVZC3'
+disqus: 'wendyshan'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
-permalink: /:title/
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Authors
 authors:
-  wendy:
+  Wendy:
     name: Wendy(Pengyin) Shan
     display_name: Wendy Shan
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/avatar.png'
     email: wendy.shan@hotmail.com
     github: https://https://github.com/pengyin-shan
     linkedin: https://www.linkedin.com/in/pengyinshan
@@ -49,6 +49,7 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+  parse_block_html: true
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:

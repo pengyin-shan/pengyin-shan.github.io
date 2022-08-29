@@ -1,34 +1,27 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me (Wendy or Pengyin)
 permalink: /about
-comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
-
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>On my way to transfer old blog content to this new Github page site! Some parts of this site is still having default contents from template, sorry...</p>   
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<h5>Connect With Me</h5>
+<a class="btn btn-secondary" target="_blank" href="https://www.linkedin.com/in/pengyinshan/">
+LinkedIn
+</a>
+<a class="btn btn-primary" target="_blank" href="https://github.com/pengyin-shan">
+Github
+</a>
+<A class="btn btn-info" target="_blank"  HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%77%65%6E%64%79%2E%73%68%61%6E%40%68%6F%74%6D%61%69%6C%2E%63%6F%6D">Email</A>
 
 </div>
 </div>
