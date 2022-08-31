@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading Notes for CFA1 Program Curriculum Volume 1 - QUANTITATIVE METHODS part"
-categories: [ Reading ]
+categories: [ Business ]
 tags: [Chinese, Handwritten Notes]
 description: "Previous blog post - 2018"
 ---

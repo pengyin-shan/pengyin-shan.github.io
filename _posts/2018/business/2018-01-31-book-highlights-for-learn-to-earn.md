@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(Chinese) Book Highlights for Learn To Earn：A Beginner's Guide to the Basics of Investing and Business"
-categories: [ Reading ]
+categories: [ Business ]
 tags: [Chinese]
 description: "Previous blog post - 2018"
 toc: true

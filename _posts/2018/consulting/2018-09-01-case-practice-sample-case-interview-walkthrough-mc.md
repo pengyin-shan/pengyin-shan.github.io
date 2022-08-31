@@ -1,14 +1,11 @@
-.. title: Case Practice - Sample Case Interview Walkthrough from Management Consulted
-.. date: 2018-08-19
-.. category: Consulting
-.. tags: Case Journal
-.. slug: case-practice-sample-case-interview-walkthrough-mc
-.. authors: Pengyin Shan
-.. description: Case Practice - Sample Case from managementconsulted.com
-
-[TOC]
-
-***
+---
+layout: post
+title:  "Case Practice - Sample Case Interview Walkthrough from Management Consulted"
+categories: [ Consulting ]
+tags: [Handwritten Notes]
+description: "Previous blog post - 2018"
+toc: true
+---
 
 ### Case Introduction
 
@@ -34,4 +31,4 @@ https://managementconsulted.com/sample-case-interview-question-walkthrough
 
 ### Case Notes
 
-![notes](/images/2018/consulting/mc-case-sample.png)
+![notes](/assets/images/2018/consulting/mc-case-sample.png)
