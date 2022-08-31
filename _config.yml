@@ -1,7 +1,7 @@
 # Site
-name: "Wendy Shan"
-title: "Wendy Shan"
-description: "Trial-run Blog"
+name: "Wendy(Pengyin) Shan"
+title: "Wendy(Pengyin) Shan's Journey"
+description: "A Trial-run Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 domain: pengyin-shan.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
@@ -17,7 +17,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 authors:
   Wendy:
     name: Wendy(Pengyin) Shan
-    display_name: Wendy Shan
+    display_name: Wendy(Pengyin) Shan
     avatar: 'assets/images/avatar.png'
     email: wendy.shan@hotmail.com
     github: https://https://github.com/pengyin-shan
